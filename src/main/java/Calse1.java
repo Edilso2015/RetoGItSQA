@@ -1,0 +1,2 @@
+public class Calse1 {
+}
